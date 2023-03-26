@@ -62,4 +62,4 @@ if [ ${#FAILED[@]} -ne 0 ]; then
 fi
 
 # Display the message box
-zenity --info --text="$MESSAGE" --title="Installation Monitoring"
+zenity --info --text="$MESSAGE" --title="Installation of Essential Packages"
